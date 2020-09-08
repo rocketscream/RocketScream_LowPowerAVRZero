@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For LowPowerAVRZero
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LowPower	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+idle	KEYWORD2
+standby	KEYWORD2
+powerDown	KEYWORD2
+disablePinISC	KEYWORD2
+enablePinISC	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
